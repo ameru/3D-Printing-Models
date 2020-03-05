@@ -9,4 +9,4 @@ I recently just found out my university has a 3D printer and my life has been ch
 ## Items queued for printing:
 - A motor operated fan. I printed the blades with MakerBot, but saudered the wires and fused them with the switch using pliers and a riny blowtorch.
 - A phone case. The plastic is pretty durable!
-A keychain ring. Hey I wanted to have something cool too!
+- A keychain ring. Hey I wanted to have something cool too!
