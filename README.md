@@ -7,6 +7,6 @@ I recently just found out my university has a 3D printer and my life has been ch
 - MakerBot Replicator Z18 3D Printer for the actual printing. You can buy one here if you have $5.5k to drop: <https://www.bhphotovideo.com/c/product/1039972-REG/makerbot_mp05950_replicator_z18_3d_printer.html/?ap=y&ap=y&smp=y&smp=y&lsft=BI%3A514&gclid=EAIaIQobChMI7IKhltSC6AIVchitBh0LcwZ4EAQYCCABEgJigPD_BwE>
 
 ## Items queued for printing:
-- A motor operated fan. I printed the blades with MakerBot, but saudered the wires and fused them with the switch using pliers and a riny blowtorch.
+- A motor operated fan. I printed the blades with MakerBot, but saudered the wires and fused them with the switch using pliers and a tiny blowtorch.
 - A phone case. The plastic is pretty durable!
-- A keychain ring. Hey I wanted to have something cool too!
+- A keychain ring. Just because I can.
