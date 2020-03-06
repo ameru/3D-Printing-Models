@@ -8,5 +8,7 @@ I recently just found out my university has a 3D printer and my life has been ch
 
 ## Items queued for printing:
 - A motor operated fan. I printed the blades with MakerBot, but saudered the wires and fused them with the switch using pliers and a tiny blowtorch.
-- A phone case. The plastic is pretty durable!
-- A keychain ring. Just because I can.
+- A Stanford logo keychain for my best frienddd
+- A Supreme and Gucci logo keychain because people be cloutchasers and hypebeasts
+- BABY YODA FIGURINE
+- Lamborghini Egoista Model because it looks absolutely DOPE
